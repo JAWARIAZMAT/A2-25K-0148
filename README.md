@@ -57,7 +57,8 @@ CODE
 <img width="837" height="292" alt="image" src="https://github.com/user-attachments/assets/76b3155d-b1e9-44b7-ae05-e37077ac49cc" />
 
 UML CLASS DIAGRAM
-<img width="436" height="181" alt="image" src="https://github.com/user-attachments/assets/b525fa92-7235-4ef0-a7ce-930d80b9bbf2" />
+<img width="1115" height="578" alt="image" src="https://github.com/user-attachments/assets/17f2069b-031b-44e1-ad9d-f801e8dbbbc9" />
+
 
 PROOF THAT I MADE THE UML CLASS DIAGRAM
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/2028c885-09b5-4416-a340-1d8d679480dc" />
